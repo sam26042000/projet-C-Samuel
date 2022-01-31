@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642945893 source:/home/chaldrak/workspace/samuel/project/main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1642945787 /home/chaldrak/workspace/samuel/project/function.h
+
